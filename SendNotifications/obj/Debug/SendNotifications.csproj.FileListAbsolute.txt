@@ -1,0 +1,17 @@
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\SendNotifications.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\SendNotifications.pdb
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\obj\Debug\SendNotifications.csprojResolveAssemblyReference.cache
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\obj\Debug\SendNotifications.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\obj\Debug\SendNotifications.pdb
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.AspNet.SignalR.Owin.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.Web.Infrastructure.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Newtonsoft.Json.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Owin.dll
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.AspNet.SignalR.Owin.xml
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\martin.bassi\documents\visual studio 2012\Projects\SendNotifications\SendNotifications\bin\Newtonsoft.Json.xml
